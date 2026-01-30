@@ -41,3 +41,5 @@ Possible Future Improvements
   - Add Auto Scaling and Load Balancer
   - Enable monitoring with CloudWatch
   - Automate deployment using Terraform or CloudFormation
+
+More of my work on my portfolio page! https://github.com/JakeNS-Cloud/JakeNS-Portfolio 
